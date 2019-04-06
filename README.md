@@ -21,10 +21,11 @@ Wat opvalt is dat de hechting van artiesten aan hun analoge apparatuur zijn root
 
 ## Onderzoeksvragen
 
- - Is het mogelijk om digitaal te gaan? :x:
- - Is het nuttig om digitaal te gaan? :x:
- - Is het realistisch om digitaal te gaan? :x:
- - Is een overstap mogelijk? :x:
+ 0. Waarom blijft de muziekindustrie analoog werken in een digitale wereld?
+ 1. Is het mogelijk om digitaal te gaan? :x:
+ 2. Is het nuttig om digitaal te gaan? :x:
+ 3. Is het realistisch om digitaal te gaan? :x:
+ 4. Is een overstap mogelijk? :x:
 
 De uitwerking van de individuele onderzoeksvragen zullen in de `onderzoek` folder te vinden zijn.
 
