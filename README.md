@@ -34,10 +34,10 @@ De uitwerking van de individuele onderzoeksvragen zullen in de `onderzoek` folde
 
 Op basis van de uitkomsten van de twee delen, kunnen per consumenten categorie volgende constaties gemaakt worden.
 
-                        | **Technisch positief**                                              | **Technisch negatief**
------------------------ | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------
-**Emotioneel positief** | Er is een groot marktaandeel. Hier moet snel in ondernomen worden.  | Er is interesse maar de hedendaagse software is er helaas nog niet klaar voor.
-**Emotioneel negatief** | Het is technisch mogelijk maar het idee is niet welkom in de markt. | Het is technisch onmogelijk en er is geen vraag naar. Dit is een slecht businessplan.
+                    | Technisch positief                                                  | Technisch negatief
+------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------
+Emotioneel positief | Er is een groot marktaandeel. Hier moet snel in ondernomen worden.  | Er is interesse maar de hedendaagse software is er helaas nog niet klaar voor.        |
+Emotioneel negatief | Het is technisch mogelijk maar het idee is niet welkom in de markt. | Het is technisch onmogelijk en er is geen vraag naar. Dit is een slecht businessplan. |
 
 ## Interviews
 
