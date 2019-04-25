@@ -1,8 +1,3 @@
-# Bart Vincent en Thomas Houthave
-
-Bart Vincent: 18h30
-Thomas Houthave: 20h
-
 ## Persoonlijk interview met Bart Vincent (1h30m)
 
  1. Wat is jouw creatieproces?
@@ -18,10 +13,13 @@ Thomas Houthave: 20h
  1. Wat is jouw creatieproces? (Thomas)
  	- Heeft live opstellen gemaakt voor TedX, hoe werkt het?
  	- Verschil live en in studio?
- 3. Is er een norm voor een best-practice van jullie processen?
+ 2. Is er een norm voor een best-practice van jullie processen?
  	- Wijk je daarvan af?
  	- Wat is "jouw" practice?
  	- Wat zijn de voordelen / nadelen?
+ 3. Welke soorten generatie gebruiken jullie?
+ 	- Heiligt het doel de middelen?
+ 	- Bijhorende verwerking?
  4. Hoeveel stemmen gebruiken jullie per track?
  	- Eénstemming / meerstemmig?
  5. Hoeveel parameters kan je daar op één moment in bedienen?
