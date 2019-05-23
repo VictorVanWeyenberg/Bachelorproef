@@ -1,0 +1,137 @@
+In de jaren '90 is er een digitale revolutie ontstaan. Daarvoor werd er op tape opgenomen en plots werd alles digitaal opgeslagen.
+Dar is zeer snel overgeschakeld omdat het naar gelang van tijd ook goedkoper werd. De puur analoge mengtafels die zijn er nu nog maar die worden weinig gebruikt.
+De meeste opstellingen zijn nu hybride. Er zijn ook digitale tafels.
+
+Wat zijn de digitale tafels? zijn dat gewoon computers?
+Nee, echt hybride opstellingen. Deels analoog en deels digitaal in de zin dat je settings digitaal kan opslaan maar dat het signaalpad wel nog anaoog is.
+Pre-amps, EQ's zijn analoog maar settings zijn digitaal.
+
+Kan dat toegepast worden op effectpedalen?
+Delaypedaaltjes zullen grotendeels digitaal zijn. Het is geen tape-delay, heeft geen tap en is bijgevolge dus niet analoog. Maar van het moment dat er AD-conversie is spreek je sowieso van digitaal.
+
+Als er elektronische componenten gebruikt worden, maar geen computeralgoritme, is het dan digitaal of analoog?
+Goede vraag. Daar ga ik niet op antwoorden. AD/DA-conversie is een vage grens. MAar wanneer je het geluid in 1'tje en 0'etjes veranderd, ben je digitaal bezig.
+
+Laat die AD-conversie uw geluid slecht klinken?
+Daar heerst een grote discussie. Maar dat is niet de vraag. Alles heeft zijn functies en charmes. Sommige mensen zweren bij analoog maar tegenwoordig staat het zo dicht dat alles subjectief is.
+Ik vind dat de voor- en nadelen van analoog of digitaal niet in de klank zit maar in het taktiele. Bij een analoge - zelfs bij digitale tafels - heb je knopjes om aan te draaien.
+Maar je hebt dat ook als plugin. Het verschil zit hem in de omgang met het instrument. De user experience heeft ook impact op de keuzes die je maakt.
+Het kan dan analoog of digitaal zijn. Je kan synthesizers hebben, hetzelfde analoog of digitaal. De keuzes die je maakt voor sound design gaan anders zijn afhankelijk van hoe je ermee interageert.
+Het is een andere beleving, dat is het grootste verschil. Ik hoor in ieder geval geen verschil. Niks is beter of slechter. Ik doe alles digitaal en ik vind dat wel lekker klinken.
+
+Past u soms andere soorten geluidsgeneratie toe?
+Ja, ik werk met pre-amps die dateren uit de jaren '70 die ik super goed vind klinken. Je kan zo'n goede EQ's hebben als je wil, maar als de bron van uw geluid niet goed is, krijg je het nooit rechtgezet.
+Je moet beginnen met een goede bron.
+Dat is dus een goede muzikant op een goed instrument dat binnengenomen wordt met een goede microfoon op een goede pre-amp, dan heb je al een vol, dynamisch geluid dat je volledig naar uw hand kunt zetten.
+Maar als dat al niet goed is, dan krijg je het nooirt mooi.
+In de opleiding zeggen ze: "you can't polish a turd".
+
+Hoe genereert u uw geluid?
+In sound design zijn dat dingen dat ik zelf opneem, dingen die ik sample of aankoop. Whatever works. Ik werk zeer commercieel en met srakke deadlines dus het moet ook binnen zekere normen vallen.
+Het is niet dat ik strikt werk volgens bepaalde criteria.
+
+Wat is uw werkproces?
+Hangt af van de opdracht. Als ik tijd over heb trek ik er wel eens op uit met een recorder en wat microotjes.
+De samples die ik opneem steek ik in mijn library en ik gebruik een software programmaatje om die terug te vinden.
+Die gebruik ik als basis geluiden. Maar ik koop ze ook. Daar vind ik ook vaak mijn weg mee.
+Het kan echt vanalles zijn.
+
+U vindt de digitale geluidsverwerking dus al goed?
+Ja, dat vind ik. Ik werk altijd in Protools. Dat is een industriestandaard. Werkt zeer goed.
+Veel mensen werken daar ook op dus als er sessies gedeeld moeten worden, kan dat gewoon door één universeel bestandje door te sturen.
+Ik werk ook vaa konder beeld. Nu ben ik bezig aan een kortfilm.
+Je krijgt de dialogen die op set opgenomen zijn. Eerst maak ik die schoon en knip ik het op.
+Stel dat ik uit dit interview een woord zou knippen, dan valt er een stilte. Het is dan mijn taak om die stilte ook op te vullen zodat het natuurlijk en consistent blijft.
+Daarna EQ je het en leg je er ambiances onder.
+Zo maak je scenes, dat is redelijk basicsound design.
+Een andere soort sound design is het versterken van de realiteit, meer drama.
+
+Gebruik je andere soorten geluidsgeneratie?
+Nee, dat is iets volledig anders, dat heeft hier niks mee te maken. Het is verwarrend dat je dat generatie noemt. Ik zou het brongeluide noemen.
+Die gebruik ik ook, maar dat is wanneer je dingen groter wilt laten lijken dan de realiteit.
+Stel nu dat je een gesprek op straat natuurlijk wilt laten klinken en er passeert een wagen, dan zet je gewoon het geluid van een wagen eronder.
+Stel nu dat de video uit verschillende perspectieven gefilmd is dan steek je er drie lagen wagen in met nog een woosh en een filtersweep.
+Een auto die passeert in the fast and the furious gaat compleet anders klinken dan in aanrijding in moscou.
+Granulaire synthesis is dan weer muzikaler van aard. Daar definieer je instrumenten.
+
+Leg granulaire synthesis eens uit.
+[Houthave legt subtractive en granulaire synthesis uit.]
+Ik kan dat gebruiken maar dat is voor wanneer ik muzikalere sound design doe.
+
+Hoeveel tracks gebruikt u in een project?
+Dat kan al snel oplopen tot 100 - 150 tracks zijn.
+Dat is niet per se op één moment.
+
+Hoeveel effecten zet u daarop?
+Het beetje peper en zout: EQ en compressie. Om bepaalde frequenties te benadrukken. Dat op ieder spoor.
+
+U bent ook live bezig.
+Ja, ooit in mijn opleiding, maar ik vond dat veel te stressy. Mijn set op TedX was op zich geen live geluid. Dat was iets zeer ingewikkelds.
+Het was auditieve en visuele branding dat aangestuurd werd door mensen op het evenement.
+We hadden een soundscape gemaakt en we hadden al die verschillende lagen en elementen in ableton gestoken.
+We hadden het zodanig geprogrammeerd dat al die verschillende branding die we gemaakt hadden getriggerd en aangestuurd werden door de mensen die het evenement bezochten.
+Ze zeiden iets in een voice booth, dat werd omgezet naar digitale code en dat beïnvloedde de visuele branding die op de grote schermen in de zaal speelden en ook de soundscape die in de zaal speelde.
+
+Ziet u dat al snel analoog gebeuren?
+Nee. Onmogelijk. Dat is te advanced.
+Analoog zou al willen zeggen dat je met tapes moet gebruiken dus misschien lukt dat voor een muzikaal artiest. Maar het zou nooit zo ver kunnen gaan. Ik zie het niet gebeuren.
+Met generatieve patches op synthesizers lukt het misschien ook, maar wie wilt daar in godsnaam nog aan beginnen.
+
+Wat zijn uw veiligheidmaatregelen voor een direct goede opname.
+Ja, ik ken mijn studio en test ook altijd alle apparatuur. Dat is niet veel werk op voorhand.
+Als je weet dat je gaat werken met een band, dan gaat dat proces al iets gevoeliger zijn.
+Ik heb ook een backup voor alles dat mis kan lopen. Ik heb zeker twee micro's en pre-amps voor één stem die opgenomen moet worden.
+
+Heb je ooit al vreemde of excentrieke manieren van opname toegepast.
+Ja. Er was eens een campagne voor Lidl waar we groenten en fruit gesampeld hebben en tomorrowland anthems mee nagemaakt hebben.
+Er werden videoclips van gemaakt en als je kon raden welk liedje het was kon je tickets voor tomorrowland winnen.
+Dat was al super experimenteel want als je met een banaan op een meloen slaat, klinkt het al zeer goed als kick drum.
+
+Doet u veel sound design in de studio zelf?
+Ja, zoals ik al zei: de bron moet goed zijn.
+Het valt de hard op als je geluid te veel gaat manipuleren. En soms is dat goed, dat is ook een stijl an sich. In de hiphop scene zit al veel vocoder en auto tune sound.
+Dat is een effect dat bedoeld was voor iets anders. Maar daar hebben ze wel hun sound van gemaakt.
+
+Hoe zit het met automatisering van de instellingen van het geluid?
+Ik denk dat dat al bestaat. Er is software van Isotope. Een bedrijf dat zich zeer hard op nieuwe technologie mikt. De doen audio magic.
+Ze hebben een plugin dat een geluid analyseert. Het herkent het geluid (instrument) dat dan automatisch sommige presets gaat instellen op het geluid.
+Iets met AI, daar gaan we wel naartoe. Voor het maken en componeren van muziek gaat dat ook meer gebeuren.
+Ik denk niet dat robots op een dag leuke muziek gaan maken.
+Maar ik denk wel dat je als muzikant of producer tools gaat hebben die het laten lijken alsof je met iemand aan het jammen bent.
+Dat je bijvoorbeeld een akkoord speelt en dat het programma er variaties op gaat spelen. Google heeft al een heleboel van die tools.
+Dat vind ik wel interessant. Je hebt nog altijd de human touch maar de tools worden wel aangereikt door een computer. Alsof je een bioische muzikant hebt.
+
+Waar ziet u AI nog zoal opduiken?
+In game engines. Maar dat is niet mijn wereld. Ik heb al sound design voor games maar nog niet op het niveauu dat ik wil. Daarvoor moet je echt meer een programmeur dan een sound designer zijn.
+De kunst van een game sound designer ligt bij hoe hij de engine kan gebruiken om zijn geluid te vormen.
+Audio in een game engine werkt volledig anders. dat is zeer reactief. Bij ons verloopt dat lineair. In een game engine stopt het niet.
+Het geluid hangt aan objecten en de game engine weet afhankelijk van de positionering van geluiden hoe het moet klinken.
+
+Is dat ook handig voor elektronische muziek artiesten.
+Nee, het is een medium. Maar als componist is het wel interessant om een compositie te maken die modulair is.
+In games heb je het vaak dat wanneer het spannender wordt dat er elementen aan de muziek toegevoegd worden.
+Maar niet om nieuwe muziek te maken.
+
+Is de synthesis methode determinerend vor hoe het geluid gaat klinken?
+Alles heeft zijn eigen functie in geluid. Als je subtractive wilt werken, moet je subtractive werken.
+
+Klinkt digitaal slechter dan analoog?
+Er bestaat heel veel snobbisme in analoge muziek.
+Audio is altijd al zoiets geweest waar ongelooflijk veel mensen hun specialist in zijn terwijl heel weinig mensen er hun basis van snappen.
+Als ik naar een Hi-Fi winkel ga krullen mijn tenen van de uitleg dat ik krijg van de verkopers.
+Het is ook hip om nu een modulaire synthesizer te maken. Er zijn een heleboel mensen die hun eigen specialist worden.
+Het is en blijft ook een instrument. Dat dient om muziek te maken, niet om de vergelijking te gaan maken met andere instrumenten.
+
+Kunnen door digitalisering sommige tools in een tablet gepropt worden?
+Dat is al zo. IRig IK-multimedia doet dat. Er zijn zodanig goede distortion plugins, waarom zou je ze niet gebruiken?
+OXBOX doet nu ook al aan software plugins die je kan aansturen met je tablet.
+
+Denkt u dat muzikanten dat ook aantrekklijk zullen vinden?
+Ja.
+
+Zou u daar baat bij hebben?
+Ja ik denk er wel over om het ook te gebruiken. Het verbreedt mijn mogelijkheden.
+Vroeger had ik een multieffectpedaal waar je alle effecten ter wereld mee kon nabootsen. Als ik daar nu naar luister klinkt het maar slecht.
+
+Verwelkomt de muzieksector de digitalisering?
+Ja, eigenlijk wel. Het ene moet het ander niet uitsluiten. Ik luister wel naar veel muziek op spotify maar als ik een album echt mooi vind, dan koop ik het ook op vinyl.

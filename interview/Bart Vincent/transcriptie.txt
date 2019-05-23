@@ -1,0 +1,86 @@
+Dus over de digitalisatie?
+Dat is nu al bezig. Ik ben opgegroeid met analoge mengtafels, live. Er bestond toen één digitale tafel en die was *kut* eigenlijk. Maar die kon heel veel al op die momenten.
+Nu wilt niemand daar nog op werken omdat die preamps zo slecht zijn eigenlijk. Intussen is er zoveel geëvolueerd.
+In die tijd kreeg je een analoge mengtafel. Als er na u nog een band moest soundchecken moest je alles overschrijven.
+Van elke tafel kon je scriptsheets downloaden, daarop kon je aanduiden hoe de queues stonden.
+Intussen kom je bijna geen analoge tafels meer tegen.
+Laatste vier jaar ben ik live maar 4 analoge tafels tegengekomen.
+Hoe meer je de tafels leert kennen hoe meer je ermee overwegg kan.
+
+Mijn idee was dat alles nog analoog verliep.
+Alles? Dat niet nee. Maar de stage blocks, micro's etc. Die verlopen nog altijd via een kabel, dat is analoog.
+Maar ze worden aangesloten op een digitale mengtafel.
+
+Is die digitale mengtafel dan gewoon een computer?
+Nee, Het is een computer waarbij de schuivers een tool zijn die een computer aansturen.
+Na het selecteren van een track stel je de instellingen van die track in aan de hand van één input.
+
+Al die stemmen worden allemaal verwerkt door de computer?
+Ja, er verloopt altijd een analoog/digitaal conversie.
+
+Klopt het dat, afhankelijk van de kwaliteit van de conversie, digitaal geluid slechter klinkt?
+Nee, ik denk dat niet. Vroeger nam je op een band. Hoe breder uw band, hoe meer informatie je erop op kan slaan. De breedte kan je nu vergelijken met de 16- of 24-bit range van de geluidskwaliteit. Het is de hoeveelheid van 0-etjes en 1-tjes die je kan opslaan die maken hoe definieert uw geluid is.
+Ook de snelheid van de tape is belangrijk. Het aantal samples per seconde. En zeker belangerijk is de klok.  Als je een accurate klok hebt, zal die de juiste samples op het juiste moment afspelen. Je kan soms enorm dure machines hebben die enkel dienen om een klok te genereren. Dat communiceert met uw DAW en dat zorgt dat uw soundbytes op het juiste moment gegenereerd worden.
+
+Je werkt live; hoeveel stemmen gebruik je?
+Ik werk op een beperkte versie van protools, daar ben je gelimiteerd tot 128 tracks.
+
+Gebruik je meer?
+Nee, als je meer zou gebruiken, zou je al direct met een orkest samen werken. Als je een gewone pop-band opneemt zou je genoeg hebben met zo'n 50-tal tracks.
+
+Welke tracks zijn dat dan?
+Een aantal voor doubling via een andere microfoon voor een andere kleurklank. Verder kan je als snel aan 12 kanalen komen met een drum kit.
+
+Je bent een grote voorstander van zo min mogelijk postproductie te doen.
+Ja. Iedereen moet aangevoerd worden. Als je een tom hebt die iet goed gestemd is, dan zit het in alle microfoons. Je kan sound-replacement doen maar ik ben een voorstander van al te zoeken naar de klank die je wilt hebben in de studio, alvorens je gaat opnemen.
+
+Ik zoek naar het real-time aanpassen van geluid. Wat doe je daar op een podium? Werk je constant met een heleboel parameters? Zijn dat er enkelen?
+Alles wordt gesoundcheckt, het hele team wordt aangevoerd. Melanie Debiasio zingt van nature zeer stil. Als er dan een instrument te luid speelt dan communiceer ik dat ook. Als hij te luid speelt, komt dat in de micro van Melanie omdat die zo luid staat.
+Maar waar ik bijstuur, ik queue, ik compress.
+Met digitale mengtafels kan je alles al op voorhand instellen.
+
+Hoeveel effecten gebruk je zo per track?
+Ik zet er standaard 5 klaar.
+
+Wat is jouw creatieproces?
+Ruimte controleren, band en zangeres placeren. Maken dat iedereen zijn klank overeen komt hoe zij het willen. Dan is er een PA-repetitie; een generale repeitite met alle technici.
+
+Is er een good-practice in jouw vak?
+Er zijn een aantal regels. Natuurlijk kan je met digitaal niet in het rood gaan. Op een analoge tafel kan dat een leuk effect hebben.
+
+En wat is het meeste werk tijdens het optreden zelf?
+Ik luister. Soms stuur ik wat bij als het nodig is zodat alles overkomt zoals het hoort.
+
+Is er ruimte voor automatisatie?
+Onmogelijk, dat is allemaal afhankelijk van smaak. En iedereen heeft een andere smaak. Er is een plugin genaamd Izotope-8 die de gebruiker een mix voorstelt zodat het klinkt zoals een referentietrack. Maar dan kies jij, als gebruiker nog steeds of je het goed vindt of niet.
+Het hangt ook af van de ruimte. De charlatan gaat anders klinken dan het sportpaleis.
+Slates maakt een microfoon waarbij de karakteristieken van de microfoon digitaal kan instellen. Ik geloof het zelf niet want volgens mij werkt een grootmembraan microfoon nog steeds met een groot membraan. Maar zo zijn er plugins, van verschillende merken, die zeker analoge pre-amps simuleren. En dat komt zeer dicht in de buurt.
+Ik heb verschillende pre-amps zowel analoog als digitaal gehoord en als je blind luisters zou ik niet kunnen zeggen welke hardware en welke software was.
+
+Zijn er special technieken die eigen zijn aan jou?
+Distortion om harmonieën bij te brengen.
+
+Waarom hangen zoveel mensen vast aan analoog? Waarom maken ze de overstap naar digitaal niet ookal klinkt het hetzelfde?
+Dat heeft te maken met smaak. Ik heb u gesproken over Peter Klaas. Ik ben bij hem op cursus geweest. Daar hoorden we twee keer hetzelfde nummer. éénmaal bewerkt met digitale gear; andere keer bewerkt met analoge gear.
+Een iemand kan vinden dat digitaal veel cleaner is. Anderen vinden dat ze karakter missen. Maar veel van dat "vuil" kan ook gegenereerd worden door een plugin.
+Het feit dat iets imperfect is maakt dat je soms tot iets onbedoelds maar origineels komt. Daar zoek je in productie soms wel naar.
+
+Gebruik je soms andere manieren van geluidsgeneratie?
+Nee.
+
+[Ik geef een uitleg over verschillende soorten generatie.]
+In welke methode past jouw vak het best?
+Ik ben een man van compressie en equalizing. Mijn geluiden moeten passen in een geheel. Zo lijkt het het best op subtractive synthesis.
+Wat ik ook wel doe is veel doubling, het creëren van een "wall of sound". Doubling is twee keer hetzelfde proberen spelen. Het is onmogelijk om twee keer hetzelfde te spelen dus de kleine afwijkingen in het geluiden maken dat het veel vetter gaat klinken.
+
+Is het moglijk om digitaal te gaan?
+Ik denk dat het nu al gebeurt. Dus ja! Zeker. In mijn leefwereld heeft alles te maken met de afstelling van de artiest. Dus of het allemaal goed gaat klinken, weet ik niet.
+
+Wie zou er baat bij hebben?
+Amateurs. Als je in een vlugge flow zit op radio, zou het zeker ook kunnen. Digitale gitaarpedalen bestaan al, Line Six is daarmee begonnen. Radio Head genereert zelf ook zijn eigen effecten.
+De verwantschap met het instrument gaat anders zijn, maar het gaat nogsteeds een instrument zijn waar je mee om kan leren gaan.
+Het fysieke gaat het meest gemist worden. Het is de look-and-feel die de muzikale ervaring versterkt.
+
+Waarom zou digitalisering niet verwelkomd worden?
+Het wordt wel verwelkomd maar een computer gaat gewoon nooit het werk van een mens kunnen overnemen.
+De tools, die de mensen helpen bij hun job, die worden wel beter.
